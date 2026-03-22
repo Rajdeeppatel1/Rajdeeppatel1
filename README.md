@@ -53,23 +53,23 @@
 
 ---
 
-## 📊 GitHub Stats
+
+
+ ---
+
+### 📊 Statistics & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajdeep-patel-b80b85341&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajdeeppatel1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-patel-b80b85341&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeeppatel1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=rajdeep-patel-b80b85341&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeeppatel1&theme=tokyonight&hide_border=true" />
 </p>
 
- ## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdeep-patel-b80b85341&theme=tokyo-night&bg_color=0D1117"/>
-</p>
+---
 
 
 ---
