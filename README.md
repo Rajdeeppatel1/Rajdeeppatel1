@@ -4,16 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
 </p>
 
-I am a **Computer Science Student (B.Tech AI & ML)** at Technocrats Institute of Technology (Excellence), Bhopal. I am a passionate **Software Engineer** dedicated to building intelligent systems and scalable web applications. 
+ I am a passionate **Software Engineer** dedicated to building intelligent systems and scalable web applications. 
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Focus:** 3rd Semester B.Tech in Computer Science (Specializing in AI & ML).
-- 💻 **Currently Building:** A Voice-Controlled Humanoid Robot using ESP boards.
-- 🌱 **Learning:** Mastering the **MERN Stack** (currently finishing CSS) and Advanced **DSA in Java**.
+- 🎓 **Focus:**  B.Tech in Computer Science (Specializing in AI & ML).
+- 💻 **Currently Building:** web applications and Aiml projects .
+- 🌱 **Learning:** Mastering the **MERN Stack** Advanced **DSA in Java** and **Machine learning**.
 - 🤖 **Interests:** IoT, Robotics, Web Automation (Selenium), and SaaS Entrepreneurship.
-- 🎯 **Goal:** Contributing to Open Source and preparing for **GSoC 2026**.
+- 🎯 **Goal:** Solving real world problems with technologies **.
 
 ---
 
@@ -23,26 +23,29 @@ I am a **Computer Science Student (B.Tech AI & ML)** at Technocrats Institute of
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OOPS](https://img.shields.io/badge/OOPS-Object%20Oriented%20Programming-blue?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
 
 **Web Development**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+
 
 **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 ---
 
 ### 📂 Featured Projects
-- **[Rajdeep Tech Education](https://github.com/your-username/rajdeep-tech-education)**: My personal portfolio website deployed on GitHub Pages.
+- **[Rajdeep Tech Education](https://rajdeeppatel1.github.io/Rajdeep-Tech-Education/)**: My personal portfolio website deployed on GitHub Pages.
 - **Smart Blind Stick**: An IoT-based project to assist the visually impaired.
-- **Selenium Automation**: Web automation scripts built with Java and Maven.
+  
 
 ---
 
@@ -55,7 +58,8 @@ I am a **Computer Science Student (B.Tech AI & ML)** at Technocrats Institute of
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Rajdeep Patel](your-linkedin-link)
-- **Portfolio:** [Check it out here!](https://rajdeep-tech-education.github.io)
+- **LinkedIn:** [Rajdeep Patel](www.linkedin.com/in/rajdeep-patel-b80b85341)
+- **Portfolio:** [Check it out here!](https://rajdeep-portfolio--theelitestoreof.replit.app/)
+- 
 
 *"Coding the future, one semi-colon at a time."*
