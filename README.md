@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Rajdeep Patel! 👋 
 
-<!--
-**Rajdeeppatel1/Rajdeeppatel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+</p>
 
-Here are some ideas to get you started:
+I am a **Computer Science Student (B.Tech AI & ML)** at Technocrats Institute of Technology (Excellence), Bhopal. I am a passionate **Software Engineer** dedicated to building intelligent systems and scalable web applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 **Focus:** 3rd Semester B.Tech in Computer Science (Specializing in AI & ML).
+- 💻 **Currently Building:** A Voice-Controlled Humanoid Robot using ESP boards.
+- 🌱 **Learning:** Mastering the **MERN Stack** (currently finishing CSS) and Advanced **DSA in Java**.
+- 🤖 **Interests:** IoT, Robotics, Web Automation (Selenium), and SaaS Entrepreneurship.
+- 🎯 **Goal:** Contributing to Open Source and preparing for **GSoC 2026**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Core CS**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
+
+**Web Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+
+**Tools & Platforms**
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+- **[Rajdeep Tech Education](https://github.com/your-username/rajdeep-tech-education)**: My personal portfolio website deployed on GitHub Pages.
+- **Smart Blind Stick**: An IoT-based project to assist the visually impaired.
+- **Selenium Automation**: Web automation scripts built with Java and Maven.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Rajdeep Patel](your-linkedin-link)
+- **Portfolio:** [Check it out here!](https://rajdeep-tech-education.github.io)
+
+*"Coding the future, one semi-colon at a time."*
