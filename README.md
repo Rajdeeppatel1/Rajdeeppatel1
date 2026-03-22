@@ -43,7 +43,8 @@
 ---
 
 ### 📂 Featured Projects
-- **[Rajdeep Tech Education](https://rajdeeppatel1.github.io/Rajdeep-Tech-Education/)**: My personal portfolio website deployed on GitHub Pages.
+- **[Rajdeep Tech Education](https://rajdeeppatel1.github.io/Rajdeep-Tech-Education/)**: a web app for educational institutes
+- **Portfolio:** My personal portfolio website deployed on GitHub Pages(https://rajdeep-portfolio--theelitestoreof.replit.app/).
 - **Smart Blind Stick**: An IoT-based project to assist the visually impaired.
   
 
@@ -60,6 +61,6 @@
 ### 📫 Connect with Me
 - **LinkedIn:** [Rajdeep Patel](www.linkedin.com/in/rajdeep-patel-b80b85341)
 - **Portfolio:** [Check it out here!](https://rajdeep-portfolio--theelitestoreof.replit.app/)
-- 
+- **Email:**patelrajdeep537@gmail.com
 
 *"Coding the future, one semi-colon at a time."*
